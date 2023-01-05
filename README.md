@@ -12,13 +12,13 @@ Here are some ideas to get you started:
   
  😄 Pronouns: He/Him
  
- 🔭 I’m currently working on:  Web-Development using Reactjs as well as Blockchain Technology.
+ 🔭 I’m currently working on:  .NET and C#, Web-Development using Reactjs as well as Blockchain Technology.
  
- 🌱 I’m currently learning:  Blockchain technology, Reactjs, Docker and Cloud Services.
+ 🌱 I’m currently learning:  .NET and C#, Blockchain technology, Reactjs, Docker and Cloud Services.
  
  👯 I’m looking to collaborate on:  Web-Development Projects.
  
- 🤔 I’m looking for help with:  Cloud Services and Blockchain.
+ 🤔 I’m looking for help with:  .NET and C#, Cloud Services and Blockchain.
  
  💬 Ask me about:  Web-Development and Programming Languages (C, C++, Arduino IDE)
  
